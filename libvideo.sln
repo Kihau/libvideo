@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libvideo", "Source\libvideo\libvideo.csproj", "{C8FC4799-97C7-4D60-9554-2A44F28C8FEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YTest", "Source\YTest\YTest.csproj", "{2D5B2610-B458-406F-92BA-BA31618DA708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8FC4799-97C7-4D60-9554-2A44F28C8FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FC4799-97C7-4D60-9554-2A44F28C8FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FC4799-97C7-4D60-9554-2A44F28C8FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FC4799-97C7-4D60-9554-2A44F28C8FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D5B2610-B458-406F-92BA-BA31618DA708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5B2610-B458-406F-92BA-BA31618DA708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5B2610-B458-406F-92BA-BA31618DA708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5B2610-B458-406F-92BA-BA31618DA708}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1D2D10E-73CA-4A16-A045-6F6115731093}
+	EndGlobalSection
+EndGlobal

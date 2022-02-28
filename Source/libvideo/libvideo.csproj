@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<RootNamespace>VideoLibrary</RootNamespace>
+		<Version>3.1.9</Version>
+		<TargetFramework>net6.0</TargetFramework>
+		<Title>libvideo</Title>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="NiL.JS" Version="2.5.1514" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+	</ItemGroup>
+
+</Project>
