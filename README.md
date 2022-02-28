@@ -1,6 +1,4 @@
-# libvideo
-
-![icon](icons/icon_200.png)
+# libvideo - debloated
 
 [![NuGet](https://img.shields.io/nuget/dt/VideoLibrary.svg)](https://www.nuget.org/packages/VideoLibrary)
 [![NuGet](https://img.shields.io/nuget/v/VideoLibrary.svg)](https://www.nuget.org/packages/VideoLibrary)
